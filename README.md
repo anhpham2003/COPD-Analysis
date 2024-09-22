@@ -55,7 +55,8 @@ I found a moderately negative correlation between the duration of smoking and pa
 suggesting that prolonged smoking aggrevates lung function. This emphasizes the importance of early smoking 
 cesstion intervations in preventing COPD progression.
 
-### Gender Differences
+### Gender Differences!
+
 Female patients exhibited significantly lower FEV1 values after five years compared to their counterparts. 
 This difference underscores the need for gender-specific approaches in COPD treatment and preventative care.
 
